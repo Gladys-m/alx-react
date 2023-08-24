@@ -1,0 +1,26 @@
+.App-logo {
+  width: 200px;
+  height: auto;
+}
+
+.App-header {
+  background-color: #fefeff;
+  font-size: large;
+  display: flex;
+  align-items: center;
+  color: #e04444;
+  border-bottom: 3px solid #e04444;
+}
+
+.App-body {
+  padding: 30px;
+}
+
+.App-footer{
+  margin-top: 20%;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  border-top: 3px solid #e04444;
+}
+
